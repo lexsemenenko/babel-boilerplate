@@ -9,7 +9,7 @@ I created this boilerplate to test Babel features for my bigger projects.  It's 
 
 Run Live-Server
 ```
-$ npm run server
+$ npm run serve
 ```
 
 Run Build
