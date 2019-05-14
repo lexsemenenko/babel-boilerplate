@@ -1,4 +1,4 @@
 "use strict";
 
-var name = "Lex";
+var name = "Kate";
 console.log(name);
